@@ -6,3 +6,15 @@ image: 2.png
 tags: [Voxel, Procedural, C++, Unreal Engine]
 categories: [unreal_engine, procedural]
 ---
+
+#### About:
+This is a MSci final year project on the topic of optimisation of infinite procedural terrain using octree data structure, dynamic Level Of Detail (LOD) and octree optimisation techniques.
+
+...
+
+***
+#### Demo videos:
+<iframe src="https://www.youtube.com/watch?v=2sqBf3AZPm0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=31X7C6H0qIE" frameborder="0" allowfullscreen></iframe>
+
+***

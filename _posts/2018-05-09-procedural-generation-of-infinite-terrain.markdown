@@ -14,7 +14,7 @@ This is a MSci final year project on the topic of optimisation of infinite proce
 ***
 #### Demo videos:
 <div class="video_container">
-  <div class="video_player"><iframe src="https://www.youtube.com/embed/2sqBf3AZPm0" frameborder="0" allowfullscreen=""></iframe></div>
-  <div class="video_player"><iframe src="https://www.youtube.com/embed/31X7C6H0qIE" frameborder="0" allowfullscreen=""></iframe></div>
+  <div class="video_player"><iframe src="https://www.youtube.com/embed/2sqBf3AZPm0" frameborder="1" allowfullscreen=""></iframe></div>
+  <div class="video_player"><iframe src="https://www.youtube.com/embed/31X7C6H0qIE" frameborder="1" allowfullscreen=""></iframe></div>
 </div>
 ***
